@@ -3,9 +3,9 @@ This repository contains a simple Django project with some secrets
 
 ### Description
 
-At the moment this project contains one Django application - "catalog".
+Currently, the project only includes a single Django application named "catalog".
 
-It hasn't implemented features yet, whenever they're being developed soon
+The mentioned features have not been implemented, but they are expected to be developed soon.
 
 ### Usage
 
